@@ -22,7 +22,7 @@ buildscript {
         ioInsertKoin = "3.3.3"
 
         // Testing
-        ioMockk = "1.13.3"
+        ioMockk = "1.13.4"
         junitVersion = "4.13.2"
         androidxTestExt = "1.1.5"
         androidxTest = "1.4.0"
